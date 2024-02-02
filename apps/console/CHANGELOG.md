@@ -1,5 +1,11 @@
 # @wso2is/console
 
+## 2.11.29
+
+### Patch Changes
+
+- [#5414](https://github.com/wso2/identity-apps/pull/5414) [`e2299b3db6`](https://github.com/wso2/identity-apps/commit/e2299b3db645dcaaf56a3fb13d35922680dd62a6) Thanks [@dewniMW](https://github.com/dewniMW)! - Remove invitation API call in root org console settings page
+
 ## 2.11.28
 
 ### Patch Changes
